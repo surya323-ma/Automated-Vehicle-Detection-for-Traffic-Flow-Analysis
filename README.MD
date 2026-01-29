@@ -44,19 +44,19 @@ It can be used for **smart city applications, traffic monitoring, and intelligen
 ---
 ## 🚗 Run Vehicle Detection
 Webcam
-python main.py --source 0
+- python main.py --source 0
 Video File
-python main.py --source traffic.mp4
+- python main.py --source traffic.mp4
 Press ESC to stop execution.
 ---
-📊 Generate Date-Wise Traffic Report
+## 📊 Generate Date-Wise Traffic Report
 After running detection:
-python generate_date_report.py
+- python generate_date_report.py
 ---
-📁 Output generated in:
+## 📁 Output generated in:
 output/date_wise_report.csv
 
-📈 Output & Results
+## 📈 Output & Results
 Live detection window with bounding boxes, IDs, and speed
 CSV logs storing detailed vehicle data
 Graphs showing vehicle distribution
@@ -75,13 +75,13 @@ Traffic density estimation
 Web dashboard (Streamlit)
 Cloud deployment
 
-👨‍💻 Author
+## 👨‍💻 Author
 
 Surya Omar
 📌 B.Tech – Computer Science & Engineering (AI & ML)
 📫 GitHub: surya323-ma
 
-⭐ Acknowledgements
+## ⭐ Acknowledgements
 Ultralytics YOLOv8
 OpenCV community
 SORT tracking algorithm
