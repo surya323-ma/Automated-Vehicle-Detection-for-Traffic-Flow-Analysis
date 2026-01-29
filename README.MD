@@ -82,6 +82,6 @@ Surya Omar
 📫 GitHub: surya323-ma
 
 ## ⭐ Acknowledgements
-Ultralytics YOLOv8
-OpenCV community
-SORT tracking algorithm
+- Ultralytics YOLOv8
+- OpenCV community
+- SORT tracking algorithm
