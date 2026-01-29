@@ -47,7 +47,7 @@ Webcam
 - python main.py --source 0
 Video File
 - python main.py --source traffic.mp4
-Press ESC to stop execution.
+
 ---
 ## 📊 Generate Date-Wise Traffic Report
 After running detection:
